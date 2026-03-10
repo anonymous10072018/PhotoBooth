@@ -1,0 +1,5 @@
+{
+  "name": "VibeBooth",
+  "description": "A modern, interactive digital photo booth with customizable frames, filters, and automated sequences.",
+  "requestFramePermissions": ["camera"]
+}
